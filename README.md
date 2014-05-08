@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial: first application
 
 
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Ziyuan Meng].
+This is a demo application for COP-4813 course, 
+web application programming in Florida International University.
+lectured by [Ziyuan Meng].
